@@ -3,4 +3,4 @@ jsonbackup.json
 .vscode/c_cpp_properties.json
 executer.sh
 *.un~
-*.exe
+*.exe 
